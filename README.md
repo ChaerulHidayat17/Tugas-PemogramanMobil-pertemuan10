@@ -1,4 +1,4 @@
-# Pemograman Mobile - Ulangan Tengah Semester
+# Pemograman Mobile - 
 ===========================================================================<br>
 <p align="center">
  &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b>&#128640 <br> 
